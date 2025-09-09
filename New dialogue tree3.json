@@ -1,0 +1,22 @@
+[
+	{
+		"title": "ruangan",
+		"tags": "",
+		"body": "Untuk menemukan barang yang hilang, lihat dulu polanya, ya!                     Lalu pencet tanda tanya (?), nanti akan muncul pertanyaan untuk kamu jawab!",
+		"position": {
+			"x": 347,
+			"y": 187
+		},
+		"colorID": 0
+	},
+	{
+		"title": "akhir",
+		"tags": "",
+		"body": "Yeay! kamu sudah membuka semua hati!                       Ayo, kita lanjut ke ruangan berikutnya!",
+		"position": {
+			"x": 297,
+			"y": 137
+		},
+		"colorID": 0
+	}
+]
