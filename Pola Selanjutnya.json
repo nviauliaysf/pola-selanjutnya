@@ -1200,7 +1200,7 @@
         "userAdded": false
       },
       {
-        "file": "assets/Manakah barang yang hilang.png",
+        "file": "assets/Manakah barang yang hilang_ (1).png",
         "kind": "image",
         "metadata": "",
         "name": "Manakah barang yang hilang_ (1).png",
@@ -41536,7 +41536,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "C:\\Users\\Aulia\\Downloads\\Frame (31).png",
+                      "image": "Frame (31).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
